@@ -45,18 +45,16 @@ https://dry-meadow-36769-8282e75c59b0.herokuapp.com/
 
 ## Usage
 
-1.
-``````    
 GIVEN a text editor web application, 
 WHEN I open my application in my editor
-THEN I should see a client server folder structure``````
+THEN I should see a client server folder structure```
 
-    WHEN I run `npm run start` from the root directory
-    THEN I find that my application should start up the backend and serve the client
-    WHEN I run the text editor application from my terminal
-    THEN I find that my JavaScript files have been bundled using webpack
-    WHEN I run my webpack plugins
-    THEN I find that I have a generated HTML file, service worker, and a manifest file
+WHEN I run `npm run start` from the root directory
+THEN I find that my application should start up the backend and serve the client
+WHEN I run the text editor application from my terminal
+THEN I find that my JavaScript files have been bundled using webpack
+WHEN I run my webpack plugins
+THEN I find that I have a generated HTML file, service worker, and a manifest file
 
 WHEN I use next-gen JavaScript in my application
 THEN I find that the text editor still functions in the browser without errors
@@ -65,8 +63,9 @@ WHEN I open the text editor
 *Below is the screenshot of the text editor "Just Another Text Editor (J.A.T.E)"*
 
 
-https://
-![JATE page](./client/src/images/Screenshot 2024-04-13 at 8.41.52PM.png)
+
+[![JATE page](./client/src/images/Screenshot 2024-04-13 at 8.41.52PM.png)]
+
 
 
 
