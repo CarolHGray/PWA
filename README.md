@@ -64,7 +64,9 @@ WHEN I open the text editor
 
 *Below is the screenshot of the text editor "Just Another Text Editor (J.A.T.E)"*
 
-![alt text](./src/images/Screenshot 2024-04-13 at 8.41.52PM.png)
+![alt text](./client/src/images/Screenshot 2024-04-13 at 8.41.52PM.png)
+
+
 
 THEN I find that IndexedDB has immediately created a database storage
 WHEN I enter content and subsequently click off of the DOM window
