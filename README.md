@@ -64,7 +64,11 @@ WHEN I open the text editor
 
 *Below is the screenshot of the text editor "Just Another Text Editor (J.A.T.E)"*
 
-![alt text](./client/src/images/Screenshot 2024-04-13 at 8.41.52PM.png)
+
+https://
+![JATE page](./client/src/images/Screenshot 2024-04-13 at 8.41.52PM.png)
+
+
 
 
 
